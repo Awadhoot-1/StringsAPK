@@ -1,0 +1,12 @@
+API_KEY 
+password
+Password
+PASS
+PASSWORD
+passwd
+PASSWD
+USERNAME
+USER_NAME
+User
+MANIFEST
+XML
