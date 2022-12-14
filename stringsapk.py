@@ -41,7 +41,7 @@ def string_finder(words): # Finds strings in the decompiled files
                 for word in words:
                     # Searching for keywords
                     if re.search(word, line, re.IGNORECASE):
-                        print(colored("Found! | " + line + "\nPath   | " + fpath + "\n", 'green' ) )
+                        print(colored("Found! | " + line + "\nPath   | " + fpath + "\n", 'green' ))
                         text+="".join (["Found! | ", line, "\nPath   | ", fpath, "\n"])
                         continue
                     else:
