@@ -3,10 +3,8 @@
 ## Introduction
 
 StringsAPK is a cross-platform tool that aids a penetration tester to find intresting strings inside of an APK file, thus aiding the static code analysis process during android app penetration testing.
-
-## Installation
   
-### Pre-requisites
+## Pre-requisites
   
   StringsAPK requires `apktool` to decompile the application. So, `apktool` being installed is crucial. You can find guide on how to install apktool on your specific platform at [How to install APKTOOL](https://ibotpeaches.github.io/Apktool/install/).
   
