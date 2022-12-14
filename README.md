@@ -19,7 +19,7 @@ StringsAPK is a cross-platform tool that aids a penetration tester to find intre
   
 ## Operation
 
-  To find intresting strings inside of a APK file, create a wordlist that contains all the keywords. This wordlist will aid StringsAPK to look for specific keywords inside the decompiled APK. Upon running StringsAPK a directory named `decompiledFiles` that will be created which contains the decompiled APK along with a `report.txt` file that will contain the output of the script.
+  To find intresting strings inside of a APK file, create a wordlist that contains all the keywords. This wordlist will aid StringsAPK to look for specific keywords inside the decompiled APK. Upon running StringsAPK a directory named `decompiledFiles` will be created which contains the decompiled APK along with a `report.txt` file which will contain the output of the script.
   
   To run StringsAPK on a APK file enter the following command:
   
